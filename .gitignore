@@ -21,6 +21,7 @@ checkpoints/
 .idea/
 *.swp
 *.swo
+*.code-workspace
 
 # Distribution / packaging
 dist/
